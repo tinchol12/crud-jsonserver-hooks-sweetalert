@@ -1,0 +1,28 @@
+{
+  "restaurant": [
+    {
+      "precioPlato": "150",
+      "nombrePlato": "Cheesecake",
+      "categoria": "postre",
+      "id": 1
+    },
+    {
+      "precioPlato": "330",
+      "nombrePlato": "Rib Eye 300 gm",
+      "categoria": "cortes",
+      "id": 2
+    },
+    {
+      "precioPlato": "120",
+      "nombrePlato": "Ensalada de  pollo",
+      "categoria": "ensalada",
+      "id": 4
+    },
+    {
+      "nombrePlato": "Coca Cola",
+      "precioPlato": "25",
+      "categoria": "bebida",
+      "id": 5
+    }
+  ]
+}
