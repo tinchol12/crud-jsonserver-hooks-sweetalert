@@ -1,3 +1,22 @@
+
+Alertas:
+https://sweetalert2.github.io/
+
+API: Json Server
+npm install -g json-server
+- crear archivo base de datos (db.json)
+- agregar los registros
+en una segunda consola json-server db.json 4000 
+eso crea una API, y nos da la url de http:localhost:4000/restaurant
+https://my-json-server.typicode.com/
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
